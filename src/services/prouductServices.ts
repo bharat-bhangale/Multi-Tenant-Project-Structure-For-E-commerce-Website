@@ -1,0 +1,1 @@
+console.log("Service for handling product data")
