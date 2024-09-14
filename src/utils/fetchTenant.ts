@@ -1,0 +1,1 @@
+console.log("Utility to fetch tenant details");
