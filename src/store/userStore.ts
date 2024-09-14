@@ -1,0 +1,1 @@
+console.log("Store to manage user state")

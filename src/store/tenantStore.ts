@@ -1,0 +1,1 @@
+console.log("Store to manage tenant-specific state");
