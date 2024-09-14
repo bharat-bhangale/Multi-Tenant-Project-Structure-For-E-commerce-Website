@@ -1,0 +1,1 @@
+console.log(" Tenant 1 specific configuration ");

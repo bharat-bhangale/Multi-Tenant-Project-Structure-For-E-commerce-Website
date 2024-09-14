@@ -1,0 +1,1 @@
+console.log(" Default config (shared between tenants) ");
