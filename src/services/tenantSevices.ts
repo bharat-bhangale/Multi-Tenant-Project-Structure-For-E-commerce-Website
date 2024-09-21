@@ -1,1 +1,0 @@
-console.log("Service to resolve tenant details")
